@@ -20,11 +20,11 @@ git clone https://github.com/OthavioBF/gostack-conceitos-reactjs.git
 
 Antes de dá start na aplicação você tem que instalar as dependências através do comando:
 
-`cd gostack-conceitos-react-native`
+`cd gostack-conceitos-reactjs`
 
  `yarn or npm install`
 
 Depois disso basta rodar:
 
-`yarn android or yarn ios`
+`yarn start`
 
