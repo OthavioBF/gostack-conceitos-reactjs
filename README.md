@@ -13,7 +13,7 @@ Nos desafios anteriores nós criamos uma aplicação nodejs para amarzenar repos
 ## ⌨️Instalação
 
 ```tsx
-git clone https://github.com/OthavioBF/gostack-conceitos-react-native.git
+git clone https://github.com/OthavioBF/gostack-conceitos-reactjs.git
 ```
 
 ### **Executando**
